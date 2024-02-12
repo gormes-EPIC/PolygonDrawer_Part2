@@ -1,4 +1,5 @@
 # Polygon Drawer: Part 2
+[Video Link](https://drive.google.com/file/d/1MNcSKkSMabllnWRacDVSIHVTmxzsqfce/view?usp=sharing)
 
 ## Build the model 
 1. Build out the `Model` class
@@ -40,4 +41,8 @@
 
 ## CompletePolygonController
 1. Create `CompletePolgyonController` which marks the current `Polygon` as complete unselects the current `Polygon`.
-2. This controller should have two instance variables `Model` and `Application`, the constructor `CompletePolygonController(Application app, Model m)`, and the method `complete()` which deselects the current `Polygon`, updates the menu items and repaints the screen to show the changes. 
+2. This controller should have two instance variables `Model` and `Application`, the constructor `CompletePolygonController(Application app, Model m)`, and the method `complete()` which deselects the current `Polygon`, updates the menu items and repaints the screen to show the changes.
+
+---
+If you need a refresh on part 1, here is an updated video tutorial.
+[Video Link](https://drive.google.com/file/d/1Af_SsyIIO5ylwIjyhPeLYX1E_zzrid2n/view?usp=sharing)
